@@ -92,7 +92,7 @@ class Game
 	}
 	
 }
-class Main
+class FindMyBuddy
 {
 	public static void main(String[]args)
 	{
@@ -131,4 +131,5 @@ class Main
 		}
 	}
 }
+
 
