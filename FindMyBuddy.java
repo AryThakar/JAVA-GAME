@@ -1,5 +1,5 @@
 import java.util.*;
-class Game1
+class Game
 {
 	Scanner sc=new Scanner(System.in);
 	boolean Play()
@@ -119,7 +119,7 @@ class Main
 		System.out.println("Your Choice Between 1to3");
 		System.out.println("You have only three chance");
 		
-		Game1 x=new Game1();
+		Game x=new Game();
 		boolean b=x.Play();
 		if(b)
 		{
@@ -131,3 +131,4 @@ class Main
 		}
 	}
 }
+
