@@ -1,4 +1,4 @@
-# 🎯 Find The Buddy Game (Java Console)
+# 🎯 Find The Buddy Game (Java Console) Sem-I(Project)
 
 **Find The Buddy** is a simple console-based guessing game written in Java.  
 Your goal is to find where "Buddy" is hiding within **3 tries** by guessing a number between **1 and 3**.
@@ -17,16 +17,20 @@ Your goal is to find where "Buddy" is hiding within **3 tries** by guessing a nu
 ## 🖼 Screenshots
 
 ### 🏁 Game Start
-<img src="images/game_start.png" alt="Game Start Screen" width="500">
+<img width="378" height="464" alt="image" src="https://github.com/user-attachments/assets/d6ef176a-952d-457e-b340-be719d50cce9" />
+
 
 ### 🔍 Guessing Phase
-<img src="images/guessing_phase.png" alt="Guessing Phase" width="500">
+<img width="489" height="378" alt="image" src="https://github.com/user-attachments/assets/b6a00287-7b00-4d9b-9a6b-17f32fc10d50" />
+
 
 ### 🎉 Win Screen
-<img src="images/win_screen.png" alt="You Won" width="500">
+<img width="497" height="687" alt="image" src="https://github.com/user-attachments/assets/5826eb75-9b26-4d9a-906a-444c885615d4" />
+
 
 ### 😢 Lose Screen
-<img src="images/lose_screen.png" alt="You Lose" width="500">
+<img width="492" height="706" alt="image" src="https://github.com/user-attachments/assets/7a337af9-6dfa-4308-b8f4-8bb9f1bdcbad" />
+
 
 ---
 
@@ -40,5 +44,10 @@ Your goal is to find where "Buddy" is hiding within **3 tries** by guessing a nu
 
 1. **Download the Java files**
    ```bash
-   Main.java
-   Game1.java
+      FindMyBuddy.java
+   
+2. **Run**
+   ```bash
+     javac FindMyBuddy.java
+     java FindMyBuddy
+ 
